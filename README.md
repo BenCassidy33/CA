@@ -1,6 +1,6 @@
-# CA, the C Abstraction Header Only Library
+# CA: The C Abstraction Header Only Library
 
-These are just all of the C functions that I would rather not write again.
+All of the C functions that I would rather not write again.
 
 ##### Todos
 
